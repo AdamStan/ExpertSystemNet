@@ -1,0 +1,14 @@
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\bin\Debug\KnowledgeBase.mdf
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\bin\Debug\KnowledgeBase_log.ldf
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\bin\Debug\WindowsFormsExpertSystem.exe.config
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\bin\Debug\WindowsFormsExpertSystem.exe
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\bin\Debug\WindowsFormsExpertSystem.pdb
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\obj\Debug\WindowsFormsExpertSystem.csprojAssemblyReference.cache
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\obj\Debug\WindowsFormsExpertSystem.MainMenuWindow.resources
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\obj\Debug\WindowsFormsExpertSystem.Properties.Resources.resources
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\obj\Debug\WindowsFormsExpertSystem.csproj.GenerateResource.cache
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\obj\Debug\WindowsFormsExpertSystem.csproj.CoreCompileInputs.cache
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\obj\Debug\WindowsFormsExpertSystem.exe
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\obj\Debug\WindowsFormsExpertSystem.pdb
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\obj\Debug\WindowsFormsExpertSystem.QuestionForm.resources
+B:\Projects\C#\ExpertSystem\WindowsFormsExpertSystem\obj\Debug\WindowsFormsExpertSystem.ConclusionBox.resources
