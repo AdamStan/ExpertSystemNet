@@ -35,7 +35,36 @@ insert into Facts (fact_name) values
 	('schron'), -- 26
 	('kombinezon_przeciwpromienny'), -- 27
 	('barykada'); -- 28
-	
+
+update Facts set fact_description = 'Czy masz jedzenie?' where Id = 1;
+update Facts set fact_description = 'Czy w pobliżu są zwierzęta?' where Id = 2;
+update Facts set fact_description = 'Czy masz schronienie?' where Id = 3;
+update Facts set fact_description = 'Czy masz opal?' where Id = 4;
+update Facts set fact_description = 'Czy jestes w grupie?' where Id = 5;
+update Facts set fact_description = 'Czy masz cos cennego?' where Id = 6;
+update Facts set fact_description = 'Czy masz wroga?' where Id = 7;
+update Facts set fact_description = 'Czy jestes slaby?' where Id = 8;
+update Facts set fact_description = 'Czy masz uczulenie?' where Id = 9;
+update Facts set fact_description = 'Czy w okolicy są dzikie zwierzeta?' where Id = 10;
+update Facts set fact_description = 'Czy w pobliżu są jakieś owady?' where Id = 11;
+update Facts set fact_description = 'Czy jesz trujące grzybki?' where Id = 12;
+update Facts set fact_description = 'Czy twoj sąsiad miał jadowite pająki?' where Id = 13;
+update Facts set fact_description = 'Czy masz ubranie?' where Id = 14;
+update Facts set fact_description = 'Czy masz jakies dolegliwosci?' where Id = 15;
+update Facts set fact_description = 'Czy masz surowice?' where Id = 16;
+update Facts set fact_description = 'Czy jestes w gorach?' where Id = 17;
+update Facts set fact_description = 'Czy wspinasz sie?' where Id = 18;
+update Facts set fact_description = 'Jestes na szczycie?' where Id = 19;
+update Facts set fact_description = 'Jest burza?' where Id = 20;
+update Facts set fact_description = 'Czy masz medykamenty?' where Id = 21;
+update Facts set fact_description = 'Czy masz bron?' where Id = 22;
+update Facts set fact_description = 'Przestrzegasz bhp?' where Id = 23;
+update Facts set fact_description = 'Umiesz obslugiwac bron?' where Id = 24;
+update Facts set fact_description = 'Czy widziales/as jakies slady?' where Id = 25;
+update Facts set fact_description = 'Czy mozesz sie schowac do schronu?' where Id = 26;
+update Facts set fact_description = 'Czy masz kombinezon przeciwpromienny?' where Id = 27;
+update Facts set fact_description = 'Czy barykada?' where Id = 28;
+
 CREATE TABLE [dbo].Conclusions
 (
 	[Id] INT IDENTITY(1,1) NOT NULL PRIMARY KEY,

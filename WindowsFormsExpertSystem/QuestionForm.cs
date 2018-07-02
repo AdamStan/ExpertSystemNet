@@ -15,12 +15,12 @@ namespace WindowsFormsExpertSystem
         private string factName;
         private int index;
 
-        public QuestionForm(string factName, int id)
+        public QuestionForm(string factName, string description, int id)
         {
             InitializeComponent();
             this.factName = factName;
             this.index = id;
-            this.labelQuestion.Text = factName; //description should be here
+            this.labelQuestion.Text = description; 
         }
 
         private void buttonYes_Click(object sender, EventArgs e)

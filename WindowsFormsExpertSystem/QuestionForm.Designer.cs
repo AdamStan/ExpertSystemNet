@@ -36,7 +36,7 @@
             // labelQuestion
             // 
             this.labelQuestion.AutoSize = true;
-            this.labelQuestion.Location = new System.Drawing.Point(59, 26);
+            this.labelQuestion.Location = new System.Drawing.Point(12, 25);
             this.labelQuestion.Name = "labelQuestion";
             this.labelQuestion.Size = new System.Drawing.Size(35, 13);
             this.labelQuestion.TabIndex = 0;
@@ -44,7 +44,7 @@
             // 
             // buttonYes
             // 
-            this.buttonYes.Location = new System.Drawing.Point(32, 68);
+            this.buttonYes.Location = new System.Drawing.Point(12, 87);
             this.buttonYes.Name = "buttonYes";
             this.buttonYes.Size = new System.Drawing.Size(75, 23);
             this.buttonYes.TabIndex = 1;
@@ -54,7 +54,7 @@
             // 
             // buttonNo
             // 
-            this.buttonNo.Location = new System.Drawing.Point(167, 68);
+            this.buttonNo.Location = new System.Drawing.Point(195, 87);
             this.buttonNo.Name = "buttonNo";
             this.buttonNo.Size = new System.Drawing.Size(75, 23);
             this.buttonNo.TabIndex = 2;

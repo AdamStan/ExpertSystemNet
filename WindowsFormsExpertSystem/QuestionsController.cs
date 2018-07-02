@@ -15,9 +15,9 @@ namespace WindowsFormsExpertSystem
             foreach(DataRow r in MainMenuWindow.tableFacts.Rows)
             {
                 string factName = (string)r["fact_name"];
-                //string desc = (string) r["fact_description"];
+                string desc = (string) r["fact_description"];
                 int index = (int)r["Id"];
-                new QuestionForm(factName, index).ShowDialog();
+                new QuestionForm(factName, desc, index).ShowDialog();
             }
             behind.Show();
             new ConclusionModule(behind).Conclusion();
