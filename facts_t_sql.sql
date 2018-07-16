@@ -145,3 +145,18 @@ insert into FactsToConclusions (conclusion_id, fact_id,  val) values
 -- zastrzelisz_sie
 	(12,22,1), -- bron : tak
 	(12,24,0); -- uzycie_broni : nie
+	
+	
+ALTER TABLE Conclusions ADD description VARCHAR(160)
+
+update Conclusions set description = 'Umrzesz z głodu' where Id = 1
+update Conclusions set description = 'Umrzesz z zimna' where Id = 2
+update Conclusions set description = 'Zostaniesz zjedzony przez niedźwiedzia' where Id = 3
+update Conclusions set description = 'Zginiesz w pożarze' where Id = 4
+update Conclusions set description = 'Ktoś cię zabije' where Id = 5
+update Conclusions set description = 'Zapadniesz na nieuleczalną chorobę' where Id = 6
+update Conclusions set description = 'Dostaniesz wstrząsu anafilaktycznego' where Id = 7
+update Conclusions set description = 'Zginiesz w wypadku' where Id = 8
+update Conclusions set description = 'Trafi w ciebie piorun' where Id = 9
+update Conclusions set description = 'Zapadniesz na chorobę popromienną' where Id = 11
+update Conclusions set description = 'Popelnisz samobojstwo, przypadkowe' where Id = 12
